@@ -1,0 +1,29 @@
+Cybersec 
+	https://www.root-me.org/
+
+Steganography:
+	https://apprendrehacking.wordpress.com/2018/07/02/envoyer-des-messages-secrets-sur-twitter-steganographie/
+
+Exos
+	https://exercism.org/
+
+
+C++:
+	https://www.learncpp.com/
+
+
+Docker:
+	https://askubuntu.com/questions/477551/how-can-i-use-docker-without-sudo
+	https://docs.docker.com/get-started/overview/
+	https://www.nicelydev.com/docker/docker-comprendre
+
+CSS:
+	https://flexboxfroggy.com/
+	https://cssgridgarden.com/
+	https://flukeout.github.io/
+	http://www.flexboxdefense.com/
+	https://knightsoftheflexboxtable.com/
+	https://codepip.com/games/css-surgeon/
+
+VirtualBox:
+	https://linuxhint.com/enable-copy-paste-virtualbox-host/
